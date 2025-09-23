@@ -1,6 +1,6 @@
-# Seguranca-Informatica
+# Seguranca-Informatica - XIUU
 
-## XIUU
+
 Project developed with the goal of exchanging encrypt keys, using Python, through a TCP server, where only two users can communicate for maximum security.  
 
 **Features:**
